@@ -72,7 +72,7 @@ class NewsListScreenState extends State<NewsListScreen> {
 
       News(
         title: 'India loses its Ratan',
-        description: 'Haryana Election Results: BJP secures majority with 48 out of 90 seats.',
+        description: 'Ratan Tata, visionary industrialist, dies at 86; honored nationally.',
         imageUrl: 'https://images.moneycontrol.com/static-mcnews/2024/10/20241009184828_Ratan-Tata-2-TT.jpg',
         content: 'Ratan Tata’s evolution from a powerful industrialist to a beloved social media figure is a testament to his versatility and humility. While leading the Tata Group through transformative global acquisitions and internal restructuring, he also connected with a new generation through his personal, heartwarming Instagram posts, often sharing his love for dogs and reflecting on life. This softer side revealed a man who, despite his immense corporate achievements, faced loneliness and personal challenges. His journey showcases remarkable resilience, balancing the pressures of leading one of India’s largest conglomerates with an endearing ability to stay relatable and grounded in the eyes of the public.',
         url: 'https://economictimes.indiatimes.com/news/india/india-loses-its-ratan-bombay-house-wont-be-the-same-again/articleshow/114096879.cms',
