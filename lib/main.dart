@@ -70,6 +70,25 @@ class NewsListScreenState extends State<NewsListScreen> {
     super.initState();
     _newsList = [
 
+
+       News(
+        title: 'Blinken Supports Israel’s Legitimate Actions Against Hezbollah',
+        description: 'Blinken defends Israel’s actions against Hezbollah, stressing diplomacy and civilian safety efforts.',
+        imageUrl: 'https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TKSQIW4Z55IJHNZKVAZCAAR5CY.jpg',
+        content: 'US Secretary of State Antony Blinken has expressed support for Israel’s actions against Hezbollah, describing them as legitimate due to Hezbollah’s efforts to open a new front in the ongoing conflict. Hezbollah, a militant group based in Lebanon, has been trying to escalate tensions in the region, which led to Israel’s response to defend its borders. Blinken made it clear that while Israel’s military actions are justified, there is also a crucial need for diplomatic efforts to protect civilians caught in the conflict. He highlighted the importance of ensuring that civilians can safely return to their homes once the violence subsides. Blinken’s statement also emphasized a key concern shared by many international leaders—the prevention of civilian casualties. As conflicts intensify, the risk to non-combatants grows, and ensuring their safety is paramount. He reiterated that while military actions are sometimes necessary, the goal should always be to resolve conflicts through diplomacy to avoid further harm to innocent people. This balance between supporting Israel’s right to defend itself and emphasizing the need for careful attention to civilian well-being reflects the ongoing complexity of the situation in the Middle East. Blinken’s comments underline the importance of combining military action with diplomatic efforts to achieve lasting peace and security in the region.',
+        url: 'https://economictimes.indiatimes.com/news/international/world-news/clear-and-very-legitimate-interest-blinken-offers-support-for-israels-actions-against-hezbollah/articleshow/114167597.cms',
+        category: 'Top News',
+         ),
+
+          News(
+        title: 'Noel Tata: New Chairman of Tata Trusts',
+        description: 'Noel Tata aims to strengthen Tata Trusts and enhance philanthropy through strategic leadership.',
+        imageUrl: 'https://media.assettype.com/fortuneindia/2022-05/8646531a-e891-4f4b-b258-8def4a477d8d/Noel_Tata_RJW_180117_091A_copy.jpg?w=1200&h=748',
+        content: 'Noel Tata has been appointed as the new chairman of Tata Trusts, marking a significant change in leadership for one of India’s most influential philanthropic organizations. Known for his low-profile approach and strategic vision, Noel has a track record of successfully leading Trent, a retail company under the Tata Group. His experience in the retail sector showcases his ability to drive growth and adapt to changing market dynamics. One of the hallmarks of Noel’s leadership is his commitment to maintaining the core values of the Tata Group, which have been built on trust, integrity, and social responsibility. These principles are expected to guide his work at Tata Trusts, where philanthropy plays a crucial role in addressing various social issues in India. Under Noel’s leadership, Tata Trusts is anticipated to expand its philanthropic initiatives, focusing on education, healthcare, and rural development, which are essential for the country’s progress. Additionally, his appointment is seen as a positive step towards improving relations with the Mistry family, who have had a complicated history with the Tata Group. Building these relationships is vital for the stability and continuity of the Tata Group’s operations. Noel Tata’s approach combines strategic thinking with a deep sense of social responsibility, positioning him well to lead Tata Trusts into a new era. As he takes on this important role, stakeholders hope that his vision will not only enhance the impact of Tata’s philanthropic efforts but also strengthen the overall legacy of the Tata Group as a leader in corporate social responsibility in India.',
+        url: 'https://economictimes.indiatimes.com/news/company/corporate-trends/noel-tata-has-a-store-of-experience-to-build-own-legacy/articleshow/114157996.cms',
+        category: 'Top News',
+         ),
+
       News(
         title: 'Third Eye',
         description: 'BJP praised Fadnavis; Shiv Sena credited CM Shinde for assault.',
@@ -80,6 +99,34 @@ class NewsListScreenState extends State<NewsListScreen> {
         
       ),
 
+      News(
+        title: 'Shiv Sena Factions Plan Separate Dussehra Rallies',
+        description: 'Uddhav and Shinde factions rally to showcase their stances ahead of Maharashtra elections',
+        imageUrl: 'https://assets.telegraphindia.com/telegraph/2023/May/1683730419_newshivsenabattle.jpg',
+        content: 'In the run-up to the Maharashtra Assembly elections, the two factions of Shiv Sena, led by Uddhav Thackeray and Eknath Shinde, are preparing to hold separate Dussehra rallies in Mumbai. This development reflects the ongoing split within the party and the different political narratives each faction seeks to promote. Uddhav Thackeray’s faction plans to use their rally to criticize the Bharatiya Janata Party (BJP), accusing them of creating divisions among the people of Maharashtra. They believe that the BJP’s actions have undermined unity and harmony within the state, and they intend to rally support by highlighting these concerns. On the other hand, Eknath Shinde’s faction will focus on promoting traditional Hindutva values, emphasizing the cultural and religious aspects that resonate with their supporters. Shinde’s camp aims to position itself as the true representative of Hindu interests and aims to consolidate support among those who value these principles. The separate rallies are expected to draw significant crowds, with each faction aiming to showcase their strength and connect with their voter base. This division not only highlights the rift within Shiv Sena but also indicates the broader political dynamics at play in Maharashtra. As the state approaches the elections, these rallies will serve as critical platforms for both factions to communicate their messages and agendas to the electorate. The outcome of these rallies may significantly influence voter sentiment and shape the political landscape in Maharashtra. Ultimately, the Dussehra celebrations this year will not only celebrate tradition but also become a stage for political expression and rivalry between the two factions of Shiv Sena.',
+        url: 'https://economictimes.indiatimes.com/news/politics-and-nation/sena-vs-sena-both-factions-to-hold-dussehra-rallies-in-maharashtra-today/articleshow/114167059.cms',
+        category: 'Politics',
+        
+      ),
+
+      News(
+        title: 'Pakistan Imposes Section 144 for SCO Summit.',
+        description: 'Section 144 limits gatherings in Rawalpindi as security measures for the SCO summit.',
+        imageUrl: 'https://www.thenews.com.pk/assets/uploads/updates/2024-10-11/1239033_907350_police_updates.jpg',
+        content: 'To ensure the safety and security of participants during the Shanghai Cooperation Organisation (SCO) summit, the government of Punjab, Pakistan, has enforced Section 144 in Rawalpindi until October 17. This legal measure prohibits any political assemblies and gatherings, aiming to prevent any unrest or disturbances in the area during this important international event. The SCO summit is a significant platform for discussions among member countries regarding various regional and global issues, and maintaining law and order is essential for its success. The imposition of Section 144 reflects the government’s commitment to creating a secure environment for delegates and attendees. Additionally, the central government has taken further precautions by deploying troops in Islamabad, the capital city. This military presence is intended to bolster security and deter any potential threats that could arise during the summit. Alongside the troop deployment, strict security measures have been implemented, including increased police patrolling and checkpoints in key areas. These steps are crucial to ensure the smooth conduct of the summit and to reassure both participants and the general public about their safety. The government’s actions are aimed at minimizing risks and ensuring that the focus remains on the important discussions and collaborations that occur during the SCO summit. By enforcing Section 144 and enhancing security in Islamabad and Rawalpindi, the authorities are prioritizing public safety while facilitating diplomatic dialogues among nations. As the summit approaches, the government continues to monitor the situation and make adjustments to security measures as needed, demonstrating a proactive approach to managing law and order during this significant event.',
+        url: 'https://economictimes.indiatimes.com/news/international/world-news/pakistan-section-144-imposed-in-rawalpindi-ahead-of-sco-meeting/articleshow/114167359.cms',
+        category: 'Politics',
+        
+      ),
+
+      News(
+        title: 'Rahul Gandhi Criticizes Government Over Train Safety',
+        description: 'Leaders demand accountability as train accidents raise safety concerns in India.',
+        imageUrl: 'https://akm-img-a-in.tosshub.com/businesstoday/images/story/202410/6708aa49d9ae6-haryana-poll-debacle-rahul-gandhi-cracks-the-whip-113204312-16x9.jpg?size=948:533',
+        content: 'Rahul Gandhi has criticized the Indian government for its failure to learn from previous train accidents following a recent incident in Tamil Nadu, where an express train collided with a stationary goods train. This collision has raised serious safety concerns, as it is not an isolated event; train accidents have become alarmingly frequent in the country. Rahul Gandhi pointed out that despite past tragedies, the government seems to overlook critical safety measures needed to prevent such incidents. He believes that the lack of accountability and preventive action reflects a systemic issue within the railway system. Alongside him, Priyanka Gandhi has also called for greater accountability from the government, emphasizing the need for thorough investigations and reforms to ensure the safety of passengers. Fortunately, the Railway Board reported that there were no casualties in this latest accident, and rescue teams responded quickly to the scene. Their prompt action helped prevent any loss of life, which is a silver lining amidst the chaos. However, the frequency of these accidents has sparked a broader discussion about railway safety and the government’s responsibility to ensure that trains operate securely. Many passengers and their families are worried about traveling by train, given the rising number of accidents. They want the government to take decisive steps to enhance safety measures and prevent future tragedies. The Gandhi family’s criticism highlights the need for the government to address these pressing safety issues seriously, as public confidence in the railway system is crucial for the millions who rely on it daily. Ensuring safety in rail travel must be a priority for the government to restore faith in this vital mode of transportation.',
+        url: 'https://economictimes.indiatimes.com/news/politics-and-nation/how-many-more-families-must-be-destroyed-before-govt-wakes-up-rahul-gandhi-after-tn-rail-accident/articleshow/114165257.cms',
+        category: 'Top News',
+      ),
 
       News(
         title: 'India loses its Ratan.',
@@ -238,6 +285,24 @@ class NewsListScreenState extends State<NewsListScreen> {
         url: 'https://economictimes.indiatimes.com/news/politics-and-nation/god-with-aap-no-need-to-be-scared-kejriwal-after-ed-raids-on-party-mp/articleshow/114006210.cms',
         category: 'Politics',
        ),
+
+       News(
+        title: '“Small-Cap Stocks: Hard Work, Patience, 26% Upside”',
+        description: ' Assess market risks, stay calm, and avoid emotional investment decisions.',
+        imageUrl: 'https://fortune.com/img-assets/wp-content/uploads/2022/11/Recommends_1400396118-how-to-open-investment-account.jpg',
+        content: 'In the world of investing, one important skill is the ability to assess the likelihood of future events and adjust your expectations accordingly. Unrealistic expectations can hurt your portfolio more than anything else. Over the next three months, several events could create market volatility, making it important to stay level-headed. Some of the key risks include the upcoming US election, a potential economic recovery in China (which might pull money out of emerging markets), and the ongoing tensions in the Middle East. When the market becomes volatile, many investors start doubting themselves or become anxious, and this often leads to bad decisions, like selling off good stocks out of fear or averaging down on poor-performing ones. The problem with this kind of emotional response is that it makes you act based on short-term market swings, rather than focusing on the long-term value of your investments. Small-cap stocks, in particular, can be highly sensitive to such events, but instead of letting market sentiment cloud your judgment, it’s better to rely on rational thinking. Volatility is a normal part of the market, and while it can be unsettling, it doesn’t always mean you should change your investment strategy. Instead of reacting emotionally, assess the fundamentals of the businesses you’re invested in, stay patient, and remember that short-term market noise shouldn’t drive your decisions. For the coming months, let logic and careful analysis, rather than sentiment, guide your approach to small-cap stocks. This will help you navigate the uncertainties ahead with greater confidence and success.',
+        url: 'https://economictimes.indiatimes.com/markets/stocks/news/small-cap-investing-combination-of-hard-work-patience-5-stocks-from-different-sectors-with-an-upside-potential-of-up-to-26/articleshow/114165038.cms',
+        category: 'Investment',
+      ),
+
+      News(
+        title: 'Indian IPO Growth: Raising Capital Without Debt',
+        description: 'Indian IPOs evolve, improve liquidity, streamline processes, but impact market supply-demand dynamics',
+        imageUrl: 'https://m.economictimes.com/thumb/msid-107960278,width-1200,height-900,resizemode-4,imgsize-39044/ipo-calendar-6-new-issues-5-listings-to-keep-primary-market-busy-next-week.jpg',
+        content: 'The Indian stock market has experienced significant changes over the years, particularly with the growth of Initial Public Offerings (IPOs). IPOs provide companies with a way to raise capital by offering shares to the public, and what makes them attractive is that this method doesn’t add debt to the company’s balance sheet. As companies grow, IPOs allow them to secure funds for expansion, research, and new projects, all while avoiding loans or interest payments. Over time, the IPO process has become more investor-friendly thanks to regulatory improvements like the ASBA (Application Supported by Blocked Amount) system. ASBA simplifies the application process by ensuring that the investor’s money stays in their bank account until shares are allotted. This has made the system more efficient, improving liquidity and boosting investor confidence. However, while IPOs help companies, large ones can also affect the broader market dynamics. When a major IPO occurs, it draws attention and money from investors, which can shift demand and supply in the market. After listing, if investors rush to buy these new shares, it can sometimes lead to selling pressure on existing stocks, altering stock prices and market trends. In short, while IPOs offer a debt-free way for companies to raise money and have become more accessible to investors, they can also impact overall market conditions, especially during periods of large offerings. Investors should be mindful of these shifts and stay informed when considering IPO investments.',
+        url: 'https://economictimes.indiatimes.com/markets/market-moguls/large-ipos-typically-signal-market-peaks-but-this-time-might-be-different/articleshow/114165295.cms',
+        category: 'Markets',
+      ),
 
 
        News(
