@@ -70,6 +70,15 @@ class NewsListScreenState extends State<NewsListScreen> {
     super.initState();
     _newsList = [
 
+      News(
+        title: 'Yahya Sinwar Killed in Gaza by IDF',
+        description: 'Hamas leader Yahya Sinwar confirmed killed by Israeli forces.',
+        imageUrl: 'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-10/231015-Yahya-Sinwar-Hamas-mb-0731-95501d.jpg',
+        content: 'The Israel Defense Forces (IDF) have reportedly killed Hamas leader Yahya Sinwar, who was responsible for orchestrating the brutal October 7 attack on Israel that resulted in the deaths of many civilians. Israel’s Foreign Minister, Israel Katz, confirmed the news, stating that Sinwar was killed during an IDF operation in Gaza’s Rafah region. The operation involved targeting a building suspected of housing key Hamas members, and three terrorists were killed when the building was struck, partially collapsing it. After Israeli soldiers entered the structure, they identified a body resembling Sinwar and immediately began verification procedures. The IDF is using DNA, dental, and fingerprint tests to confirm the identity of the body, matching records from Sinwar’s time in Israeli custody. Although formal confirmation is still pending, Israeli officials are highly confident that Sinwar is among the dead. Sinwar was a central figure in Hamas, directing many of its military operations and playing a crucial role in the planning and execution of the October 7 assault, which shocked the world with its violence. His death, if confirmed, would be a major blow to Hamas and a significant moment in Israel’s ongoing retaliation against the group. Hamas sources have also indicated that initial information from Gaza points to Sinwar’s death. Israel’s targeting of senior Hamas leaders has intensified as the conflict escalates, with Sinwar being one of the most sought-after figures due to his involvement in orchestrating the attack. His death could potentially alter the dynamics of the conflict, though Hamas’s capabilities and leadership structure remain complex and deeply embedded within Gaza.',
+        url: 'https://www.thehindu.com/news/international/israel-army-on-top-hamas-leader-sinwar-death/article68765266.ece',
+        category: 'Top News',
+         ),
+
 
        News(
         title: 'Blinken Supports Israel’s Legitimate Actions Against Hezbollah',
