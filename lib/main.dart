@@ -90,6 +90,34 @@ class NewsListScreenState extends State<NewsListScreen> {
          ),
 
       News(
+        title: 'Yahya Sinwar Killed in Gaza by IDF',
+        description: 'Hamas leader Yahya Sinwar confirmed killed by Israeli forces.',
+        imageUrl: 'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-10/231015-Yahya-Sinwar-Hamas-mb-0731-95501d.jpg',
+        content: 'The Israel Defense Forces (IDF) have reportedly killed Hamas leader Yahya Sinwar, who was responsible for orchestrating the brutal October 7 attack on Israel that resulted in the deaths of many civilians. Israel’s Foreign Minister, Israel Katz, confirmed the news, stating that Sinwar was killed during an IDF operation in Gaza’s Rafah region. The operation involved targeting a building suspected of housing key Hamas members, and three terrorists were killed when the building was struck, partially collapsing it. After Israeli soldiers entered the structure, they identified a body resembling Sinwar and immediately began verification procedures. The IDF is using DNA, dental, and fingerprint tests to confirm the identity of the body, matching records from Sinwar’s time in Israeli custody. Although formal confirmation is still pending, Israeli officials are highly confident that Sinwar is among the dead. Sinwar was a central figure in Hamas, directing many of its military operations and playing a crucial role in the planning and execution of the October 7 assault, which shocked the world with its violence. His death, if confirmed, would be a major blow to Hamas and a significant moment in Israel’s ongoing retaliation against the group. Hamas sources have also indicated that initial information from Gaza points to Sinwar’s death. Israel’s targeting of senior Hamas leaders has intensified as the conflict escalates, with Sinwar being one of the most sought-after figures due to his involvement in orchestrating the attack. His death could potentially alter the dynamics of the conflict, though Hamas’s capabilities and leadership structure remain complex and deeply embedded within Gaza.',
+        url: 'https://www.thehindu.com/news/international/israel-army-on-top-hamas-leader-sinwar-death/article68765266.ece',
+        category: 'Top News',
+         ),
+
+
+       News(
+        title: 'Blinken Supports Israel’s Legitimate Actions Against Hezbollah',
+        description: 'Blinken defends Israel’s actions against Hezbollah, stressing diplomacy and civilian safety efforts.',
+        imageUrl: 'https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TKSQIW4Z55IJHNZKVAZCAAR5CY.jpg',
+        content: 'US Secretary of State Antony Blinken has expressed support for Israel’s actions against Hezbollah, describing them as legitimate due to Hezbollah’s efforts to open a new front in the ongoing conflict. Hezbollah, a militant group based in Lebanon, has been trying to escalate tensions in the region, which led to Israel’s response to defend its borders. Blinken made it clear that while Israel’s military actions are justified, there is also a crucial need for diplomatic efforts to protect civilians caught in the conflict. He highlighted the importance of ensuring that civilians can safely return to their homes once the violence subsides. Blinken’s statement also emphasized a key concern shared by many international leaders—the prevention of civilian casualties. As conflicts intensify, the risk to non-combatants grows, and ensuring their safety is paramount. He reiterated that while military actions are sometimes necessary, the goal should always be to resolve conflicts through diplomacy to avoid further harm to innocent people. This balance between supporting Israel’s right to defend itself and emphasizing the need for careful attention to civilian well-being reflects the ongoing complexity of the situation in the Middle East. Blinken’s comments underline the importance of combining military action with diplomatic efforts to achieve lasting peace and security in the region.',
+        url: 'https://economictimes.indiatimes.com/news/international/world-news/clear-and-very-legitimate-interest-blinken-offers-support-for-israels-actions-against-hezbollah/articleshow/114167597.cms',
+        category: 'Top News',
+         ),
+
+          News(
+        title: 'Noel Tata: The New Chairman of Tata Trusts',
+        description: 'Noel Tata aims to strengthen Tata Trusts and enhance philanthropy through strategic leadership.',
+        imageUrl: 'https://media.assettype.com/fortuneindia/2022-05/8646531a-e891-4f4b-b258-8def4a477d8d/Noel_Tata_RJW_180117_091A_copy.jpg?w=1200&h=748',
+        content: 'Noel Tata has been appointed as the new chairman of Tata Trusts, marking a significant change in leadership for one of India’s most influential philanthropic organizations. Known for his low-profile approach and strategic vision, Noel has a track record of successfully leading Trent, a retail company under the Tata Group. His experience in the retail sector showcases his ability to drive growth and adapt to changing market dynamics. One of the hallmarks of Noel’s leadership is his commitment to maintaining the core values of the Tata Group, which have been built on trust, integrity, and social responsibility. These principles are expected to guide his work at Tata Trusts, where philanthropy plays a crucial role in addressing various social issues in India. Under Noel’s leadership, Tata Trusts is anticipated to expand its philanthropic initiatives, focusing on education, healthcare, and rural development, which are essential for the country’s progress. Additionally, his appointment is seen as a positive step towards improving relations with the Mistry family, who have had a complicated history with the Tata Group. Building these relationships is vital for the stability and continuity of the Tata Group’s operations. Noel Tata’s approach combines strategic thinking with a deep sense of social responsibility, positioning him well to lead Tata Trusts into a new era. As he takes on this important role, stakeholders hope that his vision will not only enhance the impact of Tata’s philanthropic efforts but also strengthen the overall legacy of the Tata Group as a leader in corporate social responsibility in India.',
+        url: 'https://economictimes.indiatimes.com/news/company/corporate-trends/noel-tata-has-a-store-of-experience-to-build-own-legacy/articleshow/114157996.cms',
+        category: 'Top News',
+         ),
+
+      News(
         title: 'Third Eye',
         description: 'BJP praised Fadnavis; Shiv Sena credited CM Shinde for assault.',
         imageUrl: 'https://media.assettype.com/sarkarnama%2F2024-06%2F2d944e81-65f8-4f6e-8b14-867a950f9f77%2FEknath_Shinde__Devendra_Fadnavis.jpg',
