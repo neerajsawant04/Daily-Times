@@ -71,6 +71,15 @@ class NewsListScreenState extends State<NewsListScreen> {
     _newsList = [
 
       News(
+        title: 'Modi-Putin Arctic Meet',
+        description: 'India’s Arctic role, NSR key in Modi-Putin Kazan discussions before BRICS Summit.',
+        imageUrl: 'https://cloudfront-us-east-2.images.arcpublishing.com/reuters/WTIHR27G7ZLQ7J2OQL276HJTSI.jpg',
+        content: 'Prime Minister Narendra Modi and Russian President Vladimir Putin are set to meet in Kazan on October 22, just ahead of the BRICS Summit, to discuss India’s role in the Russian Arctic and the Northern Sea Route (NSR). The Arctic region, rich in natural resources such as oil, gas, and rare minerals, holds strategic importance for both Russia and India. The NSR, a maritime route connecting Asia and Europe via the Arctic, is becoming increasingly vital due to global climate change, which has made the region more navigable. As India looks to secure energy resources and diversify its trade routes, its involvement in the Arctic region and the NSR aligns with its broader economic and geopolitical interests. Russia, on the other hand, seeks partners for Arctic exploration and infrastructure development, and India’s participation could strengthen their bilateral ties. The Kazan meeting could also explore cooperation in energy, shipping, and environmental preservation in the fragile Arctic ecosystem. This discussion is especially significant as both leaders aim to enhance cooperation in the region, making it a pivotal topic in the upcoming BRICS Summit. The evolving partnership between India and Russia in the Arctic underscores the growing geopolitical importance of the region and the strategic alignment of their interests.',
+        url: 'https://economictimes.indiatimes.com/epaper/delhicapital/2024/oct/18/et-poli/modi-and-putin-to-discuss-arctic-resources-and-northern-sea-route-ahead-of-brics-summit-in-kazan/articleshow/114328560.cms',
+        category: 'Politics',
+         ),
+
+      News(
         title: 'Yahya Sinwar Killed in Gaza by IDF',
         description: 'Hamas leader Yahya Sinwar confirmed killed by Israeli forces.',
         imageUrl: 'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2023-10/231015-Yahya-Sinwar-Hamas-mb-0731-95501d.jpg',
