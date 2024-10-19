@@ -1,5 +1,5 @@
 name: daily_times
-description: "Every News on one tap."
+description: "All News on one tap in short and simple way."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
@@ -13,8 +13,6 @@ dependencies:
   url_launcher: ^6.3.0
   cupertino_icons: ^1.0.8
   google_fonts: ^6.0.1  
-  firebase_core: ^2.10.0
-  firebase_auth: ^4.16.0
   google_sign_in: ^6.0.0
 
 dev_dependencies:
