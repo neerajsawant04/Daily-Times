@@ -1,4 +1,4 @@
-# Daily Times
+# Daily Times - Concise News.
 
 A Flutter app for browsing and reading news articles from multiple categories.
 
